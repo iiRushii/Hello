@@ -1,0 +1,9 @@
+name: Hello
+main: Hello\Hello
+version: 1.0.0
+api: [1.0.0]
+commands:
+ hello:
+  description: "This ouputs hello to the user!s"
+  usage: "/hello"
+  permission: Hello.hello
